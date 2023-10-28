@@ -1,7 +1,7 @@
 Is these 3 types of statements:
-1. [Create Table Statements] (#create-table-statement)
-2. [Alter Table Statements] (#alter-table-statement)
-3. [Drop Table Statement] (#drop-table-statement)
+1. [Create Table Statements](#create-table-statement)
+2. [Alter Table Statements](#alter-table-statement)
+3. [Drop Table Statement](#drop-table-statement)
 
 They are described below with Examples.
 # Create Table Statement
